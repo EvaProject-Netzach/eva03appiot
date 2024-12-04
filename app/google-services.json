@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877292111408",
+    "project_id": "iotclass-fb61e",
+    "storage_bucket": "iotclass-fb61e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877292111408:android:7c4f3eaa13b38032a90ff5",
+        "android_client_info": {
+          "package_name": "com.example.eva01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8ikmy0bSFxWMXycyVF1VNrR9i5YyRpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
